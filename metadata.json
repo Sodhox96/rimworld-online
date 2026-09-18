@@ -1,0 +1,6 @@
+{
+  "name": "RimColony: Frontier Simulator",
+  "description": "A complex RimWorld-inspired colony simulator featuring base building, drug manufacturing, colonist automation, infinite procedural chunk generation, combat raids, trading, and real-time multiplayer co-op.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
